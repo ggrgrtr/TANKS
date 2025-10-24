@@ -1,4 +1,6 @@
-**JAVA Libraries: Swing, awt, JFrame**
+Создание собственного Game Engine, структуры карты, анимации спрайтов и игровой логики NPC. 
+
+**JAVA Libraries: Swing, awt, JFrame, Util.random**
 
 *Мой старый проект, написанный на Java по курсу 1С*
 
